@@ -1,29 +1,13 @@
-# qinglong_scripts
+# 11game_sign_in_python
 
-首先声明：
-
-该仓库下所有任务脚本来自互联网，因转载过多，甚至已经不清楚谁是原创作者，仅作收集学习。
-
-拉库命令：
-
-ql repo https://ghproxy.com/https://github.com/justsoso12/qinglong_scripts.git "just_" "" "sendNotify"
-
-订阅更新：
-
-30 0 * * *
+基于青龙面板，11游戏对战平台每日模拟登录、通行证及签到福利领取等
 
 脚本功能描述：
 
-1、just_aiqicha.js   爱企查每日签到得爱豆
-
-2、just_glados.py    glados每日签到延长会员时间
-
-3、just_lwxq.js      乐玩星球每日签到
-
-4、just_11game_free_box.py  11Game平台 dota签到获取碎片（春季活动奖励领取）
+just_11game_free_box.py  11Game平台 dota签到获取碎片（通行证活动奖励领取）
 
 青龙面板安装及cookie获取：
 
-https://www.pangzhai.xyz/docker_qinglong/
+https://www.pangzhai.cn/docker_qinglong/
 
-https://www.pangzhai.xyz/cookie_token/
+https://www.pangzhai.cn/cookie_token/
